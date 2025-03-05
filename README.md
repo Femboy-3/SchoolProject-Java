@@ -1,1 +1,2 @@
-Nikola je biu tuki :)
+School Project:
+    Bike routes in Slovenia
