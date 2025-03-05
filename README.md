@@ -1,1 +1,1 @@
-Nikola je biu tuki
+Nikola je biu tuki :)
